@@ -1,0 +1,6 @@
+/target/
+.nb-attrs
+.mvn/
+.settings/
+.vscode/
+*.db-journal

@@ -1,0 +1,13 @@
+hn\uth\poo\biblioteca\excepciones\DatoInvalidoException.class
+com\uth\examenbiblioteca\ExamenBiblioteca.class
+hn\uth\poo\biblioteca\modelo\Libro.class
+hn\uth\poo\biblioteca\dao\AutorDAO.class
+hn\uth\poo\biblioteca\modelo\Autor.class
+hn\uth\poo\biblioteca\dao\ConexionBD.class
+hn\uth\poo\biblioteca\dao\impl\AutorDAOImpl.class
+hn\uth\poo\biblioteca\servicio\ServicioLibros.class
+hn\uth\poo\biblioteca\dao\impl\LibroDAOImpl.class
+hn\uth\poo\biblioteca\dao\InicializarBD.class
+hn\uth\poo\biblioteca\excepciones\DatosException.class
+hn\uth\poo\biblioteca\servicio\ServicioAutores.class
+hn\uth\poo\biblioteca\dao\LibroDAO.class
